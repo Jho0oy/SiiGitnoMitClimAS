@@ -14,30 +14,30 @@ export const DATA = {
         name: "Aumento da temperatura e seca prolongada",
         desc: "Rios secando, incêndios florestais, estresse para fauna e flora.",
         ods: [
-          { id: 13, title: "Ação climática", points: 40 },
-          { id: 15, title: "Vida terrestre", points: 35 },
-          { id: 6, title: "Água potável e saneamento", points: 30 },
-          { id: 2, title: "Fome zero e agricultura sustentável", points: 25 }
+          { id: 13, title: "13 - Ação climática", points: 40 },
+          { id: 15, title: "15 - Vida terrestre", points: 35 },
+          { id: 6, title: "6 - Água potável e saneamento", points: 30 },
+          { id: 2, title: "2 - Fome zero e agricultura sustentável", points: 25 }
         ]
       },
       {
         name: "Aumento de queimadas devido à seca",
         desc: "Destruição de habitats, emissões de CO₂, risco para comunidades.",
         ods: [
-          { id: 13, title: "Ação climática", points: 40 },
-          { id: 15, title: "Vida terrestre", points: 35 },
-          { id: 12, title: "Consumo e produção responsáveis", points: 25 },
-          { id: 3, title: "Saúde e bem-estar", points: 20 }
+          { id: 13, title: "13 - Ação climática", points: 40 },
+          { id: 15, title: "15 - Vida terrestre", points: 35 },
+          { id: 12, title: "12 - Consumo e produção responsáveis", points: 25 },
+          { id: 3, title: "3 - Saúde e bem-estar", points: 20 }
         ]
       },
       {
         name: "Alteração do regime de chuvas e inundações",
         desc: "Enchentes, perda de solos férteis, impactos em comunidades.",
         ods: [
-          { id: 6, title: "Água potável e saneamento", points: 40 },
-          { id: 13, title: "Ação climática", points: 35 },
-          { id: 11, title: "Cidades e comunidades sustentáveis", points: 30 },
-          { id: 15, title: "Vida terrestre", points: 25 }
+          { id: 6, title: "6 - Água potável e saneamento", points: 40 },
+          { id: 13, title: "13 - Ação climática", points: 35 },
+          { id: 11, title: "11 - Cidades e comunidades sustentáveis", points: 30 },
+          { id: 15, title: "15 - Vida terrestre", points: 25 }
         ]
       }
     ],
@@ -47,30 +47,30 @@ export const DATA = {
         name: "Alteração do regime de chuvas",
         desc: "Enchentes urbanas, deslizamentos, erosão do solo.",
         ods: [
-          { id: 11, title: "Cidades e comunidades sustentáveis", points: 40 },
-          { id: 6, title: "Água potável e saneamento", points: 35 },
-          { id: 13, title: "Ação climática", points: 30 },
-          { id: 15, title: "Vida terrestre", points: 25 }
+          { id: 11, title: "11 - Cidades e comunidades sustentáveis", points: 40 },
+          { id: 6, title: "6 - Água potável e saneamento", points: 35 },
+          { id: 13, title: "13 - Ação climática", points: 30 },
+          { id: 15, title: "15 - Vida terrestre", points: 25 }
         ]
       },
       {
         name: "Aumento da temperatura e estresse hídrico",
         desc: "Perda de biodiversidade, incêndios florestais.",
         ods: [
-          { id: 13, title: "Ação climática", points: 40 },
-          { id: 15, title: "Vida terrestre", points: 35 },
-          { id: 6, title: "Água potável e saneamento", points: 30 },
-          { id: 12, title: "Consumo e produção responsáveis", points: 25 }
+          { id: 13, title: "13 - Ação climática", points: 40 },
+          { id: 15, title: "15 - Vida terrestre", points: 35 },
+          { id: 6, title: "6 - Água potável e saneamento", points: 30 },
+          { id: 12, title: "12 - Consumo e produção responsáveis", points: 25 }
         ]
       },
       {
         name: "Eventos extremos (tempestades e vendavais)",
         desc: "Destruição de habitats, queda de árvores, impacto urbano.",
         ods: [
-          { id: 11, title: "Cidades e comunidades sustentáveis", points: 40 },
-          { id: 13, title: "Ação climática", points: 35 },
-          { id: 15, title: "Vida terrestre", points: 30 },
-          { id: 3, title: "Saúde e bem-estar", points: 25 }
+          { id: 11, title: "11 - Cidades e comunidades sustentáveis", points: 40 },
+          { id: 13, title: "13 - Ação climática", points: 35 },
+          { id: 15, title: "15 - Vida terrestre", points: 30 },
+          { id: 3, title: "3 - Saúde e bem-estar", points: 25 }
         ]
       }
     ],
@@ -80,20 +80,20 @@ export const DATA = {
         name: "Aumento da temperatura e seca prolongada",
         desc: "Redução de nascentes, perda de biodiversidade, risco de incêndios.",
         ods: [
-          { id: 13, title: "Ação climática", points: 40 },
-          { id: 15, title: "Vida terrestre", points: 35 },
-          { id: 6, title: "Água potável e saneamento", points: 30 },
-          { id: 2, title: "Fome zero e agricultura sustentável", points: 25 }
+          { id: 13, title: "13 - Ação climática", points: 40 },
+          { id: 15, title: "15 - Vida terrestre", points: 35 },
+          { id: 6, title: "6 - Água potável e saneamento", points: 30 },
+          { id: 2, title: "2 - Fome zero e agricultura sustentável", points: 25 }
         ]
       },
       {
         name: "Aumento de queimadas naturais",
         desc: "Destruição de ecossistemas, emissões de gases de efeito estufa.",
         ods: [
-          { id: 13, title: "Ação climática", points: 40 },
-          { id: 15, title: "Vida terrestre", points: 35 },
-          { id: 2, title: "Fome zero e agricultura sustentável", points: 25 },
-          { id: 3, title: "Saúde e bem-estar", points: 20 }
+          { id: 13, title: "13 - Ação climática", points: 40 },
+          { id: 15, title: "15 - Vida terrestre", points: 35 },
+          { id: 2, title: "2 - Fome zero e agricultura sustentável", points: 25 },
+          { id: 3, title: "3 - Saúde e bem-estar", points: 20 }
         ]
       }
     ],
@@ -103,20 +103,20 @@ export const DATA = {
         name: "Desertificação acelerada",
         desc: "Perda de solo fértil, redução de vegetação e fauna adaptada.",
         ods: [
-          { id: 15, title: "Vida terrestre", points: 40 },
-          { id: 2, title: "Fome zero e agricultura sustentável", points: 35 },
-          { id: 6, title: "Água potável e saneamento", points: 30 },
-          { id: 13, title: "Ação climática", points: 25 }
+          { id: 15, title: "15 - Vida terrestre", points: 40 },
+          { id: 2, title: "2 - Fome zero e agricultura sustentável", points: 35 },
+          { id: 6, title: "6 - Água potável e saneamento", points: 30 },
+          { id: 13, title: "13 - Ação climática", points: 25 }
         ]
       },
       {
         name: "Escassez hídrica",
         desc: "Restrição de água para consumo humano, animais e agricultura.",
         ods: [
-          { id: 6, title: "Água potável e saneamento", points: 40 },
-          { id: 2, title: "Fome zero e agricultura sustentável", points: 35 },
-          { id: 13, title: "Ação climática", points: 30 },
-          { id: 1, title: "Erradicação da pobreza", points: 25 }
+          { id: 6, title: "6 - Água potável e saneamento", points: 40 },
+          { id: 2, title: "2 - Fome zero e agricultura sustentável", points: 35 },
+          { id: 13, title: "13 - Ação climática", points: 30 },
+          { id: 1, title: "1 - Erradicação da pobreza", points: 25 }
         ]
       }
     ],
@@ -126,20 +126,20 @@ export const DATA = {
         name: "Alteração do regime de chuvas",
         desc: "Enchentes e secas alternadas, erosão, perda de pastagens.",
         ods: [
-          { id: 11, title: "Cidades e comunidades sustentáveis", points: 40 },
-          { id: 13, title: "Ação climática", points: 35 },
-          { id: 15, title: "Vida terrestre", points: 30 },
-          { id: 2, title: "Fome zero e agricultura sustentável", points: 25 }
+          { id: 11, title: "11 - Cidades e comunidades sustentáveis", points: 40 },
+          { id: 13, title: "13 - Ação climática", points: 35 },
+          { id: 15, title: "15 - Vida terrestre", points: 30 },
+          { id: 2, title: "2 - Fome zero e agricultura sustentável", points: 25 }
         ]
       },
       {
         name: "Aumento da temperatura e estiagem",
         desc: "Perda de biodiversidade, estresse hídrico, queda na produtividade.",
         ods: [
-          { id: 13, title: "Ação climática", points: 40 },
-          { id: 15, title: "Vida terrestre", points: 35 },
-          { id: 2, title: "Fome zero e agricultura sustentável", points: 30 },
-          { id: 6, title: "Água potável e saneamento", points: 25 }
+          { id: 13, title: "13 - Ação climática", points: 40 },
+          { id: 15, title: "15 - Vida terrestre", points: 35 },
+          { id: 2, title: "2 - Fome zero e agricultura sustentável", points: 30 },
+          { id: 6, title: "6 - Água potável e saneamento", points: 25 }
         ]
       }
     ],
@@ -149,20 +149,20 @@ export const DATA = {
         name: "Aumento da temperatura e evaporação",
         desc: "Redução do volume de água, estresse para fauna aquática e flora alagada.",
         ods: [
-          { id: 6, title: "Água potável e saneamento", points: 40 },
-          { id: 15, title: "Vida terrestre", points: 35 },
-          { id: 14, title: "Vida na água", points: 30 },
-          { id: 13, title: "Ação climática", points: 25 }
+          { id: 6, title: "6 - Água potável e saneamento", points: 40 },
+          { id: 15, title: "15 - Vida terrestre", points: 35 },
+          { id: 14, title: "14 - Vida na água", points: 30 },
+          { id: 13, title: "13 - Ação climática", points: 25 }
         ]
       },
       {
         name: "Queimadas e secas extremas",
         desc: "Destruição de ecossistemas, emissão de gases de efeito estufa, impactos na fauna.",
         ods: [
-          { id: 13, title: "Ação climática", points: 40 },
-          { id: 15, title: "Vida terrestre", points: 35 },
-          { id: 14, title: "Vida na água", points: 30 },
-          { id: 3, title: "Saúde e bem-estar", points: 25 }
+          { id: 13, title: "13 - Ação climática", points: 40 },
+          { id: 15, title: "15 - Vida terrestre", points: 35 },
+          { id: 14, title: "14 - Vida na água", points: 30 },
+          { id: 3, title: "3 - Saúde e bem-estar", points: 25 }
         ]
       }
     ]
